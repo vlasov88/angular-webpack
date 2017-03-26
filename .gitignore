@@ -1,0 +1,15 @@
+# idea
+.idea
+*.iml
+*.iws
+*.ipr
+
+# java
+*.class
+*.jar
+
+# maven
+target/
+node_modules/
+dist/
+meld/
